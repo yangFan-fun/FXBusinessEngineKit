@@ -14,7 +14,7 @@ Pod::Spec.new do |spec|
 
   spec.author       = { "yangfan" => "DBasdyangfan@outlook.com" }
  
-  spec.platform     = :ios
+  spec.platform     = :ios, "13.0"
 
   spec.ios.deployment_target = "13.0"
 
@@ -24,7 +24,7 @@ Pod::Spec.new do |spec|
 
   spec.vendored_frameworks = "FXBusinessEngineKit.framework"
 
-  spec.dependency "Alamofire", "~>5.0.0"
+  spec.dependency "Alamofire"
 
   spec.swift_version = "5.0"
 
