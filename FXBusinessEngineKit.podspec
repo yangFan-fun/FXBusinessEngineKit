@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   A commercial suite of tool based products that quickly realizes basic services, including user system, order verification service, dialogue service, cloud storage service, and inference service.
                    DESC
 
-  spec.homepage     = "https://github.com/yangFan-fun/FXBusinessEngineKit.git"
+  spec.homepage     = "https://github.com/yangFan-fun/FXBusinessEngineKit"
   
   spec.license      = { :type => "MIT", :file => "LICENSE" }
 
@@ -24,7 +24,7 @@ Pod::Spec.new do |spec|
 
   spec.vendored_frameworks = "FXBusinessEngineKit.framework"
 
-  spec.dependency "Alamofire", "~>5.6.4"
+  spec.dependency "Alamofire", "~>5.0.0"
 
   spec.swift_version = "5.0"
 
