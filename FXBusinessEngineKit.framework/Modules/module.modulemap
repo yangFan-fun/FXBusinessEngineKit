@@ -1,0 +1,11 @@
+framework module FXBusinessEngineKit {
+  umbrella header "FXBusinessEngineKit.h"
+  export *
+
+  module * { export * }
+}
+
+module FXBusinessEngineKit.Swift {
+  header "FXBusinessEngineKit-Swift.h"
+  requires objc
+}
