@@ -16,7 +16,7 @@ NaturalBridge：
 
 Ubuntu 20.04.6 LTS
 
-####
+---
 
 
 
@@ -97,17 +97,7 @@ goodsGroup := ginServer.GET("/goods")
 
 苹果IAP（应用内购买）简介：
 
-1. **苹果应用商店商品类型**
-
-2. **苹果应用内购买的收入**
-
-3. **站在服务端的角度上看待苹果的IAP**
-
-4. **苹果应用内购买整体流程**
-
-5. **苹果服务端通知类型详细介绍**
-
-6. **苹果订单校验苹果返回JSON示例**
+#### 📌📌📌点击：[飞书文档](https://gaomi-star.feishu.cn/docx/MPLid2qMAoyaI1xTVKLc5lxPnvf)
 
 
 
