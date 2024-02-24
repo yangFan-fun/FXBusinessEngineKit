@@ -9,8 +9,9 @@
 在去年，我发现我很多朋友成为了数字游民，大家主要是做一些AIGC赛道的工具类产品，所以我经常被问到把ChatGPT接入到他们的应用里面大概需要多久？找个人做图片说话跳舞大概需要多少钱？GPU服务器大概多少钱？基本都是诸如此类关于时间和成本的问题。
 假期里刚好做了一个有意思的小工具，我把里面的一些功能拆出来封装成包含了服务端和iOS移动端的一整套服务。应该是适合全职产品经理还稍微会点设计且半只脚踏入编程门槛刚转行成数字游民的你，你可以使用FXBusinessEngineKit快速构建应用，落地产品，验证想法。
 
+![Uploading whiteboard_exported_image.png…]()
 
-![功能列表](https://gaomi-star.feishu.cn/docx/MPLid2qMAoyaI1xTVKLc5lxPnvf?openbrd=1&doc_app_id=501&blockId=Queed1reHoQfWyx4AZQcCYDpnnh&blockType=whiteboard&blockToken=N7NVwEXo2h0zhSbJjjAcBHlOnnc#Queed1reHoQfWyx4AZQcCYDpnnh)
+
 
 #### 服务端部署环境：
 
