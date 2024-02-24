@@ -10,6 +10,8 @@
 假期里刚好做了一个有意思的小工具，我把里面的一些功能拆出来封装成包含了服务端和iOS移动端的一整套服务。应该是适合全职产品经理还稍微会点设计且半只脚踏入编程门槛刚转行成数字游民的你，你可以使用FXBusinessEngineKit快速构建应用，落地产品，验证想法。
 
 
+![功能列表](https://gaomi-star.feishu.cn/docx/MPLid2qMAoyaI1xTVKLc5lxPnvf?openbrd=1&doc_app_id=501&blockId=Queed1reHoQfWyx4AZQcCYDpnnh&blockType=whiteboard&blockToken=N7NVwEXo2h0zhSbJjjAcBHlOnnc#Queed1reHoQfWyx4AZQcCYDpnnh)
+
 #### 服务端部署环境：
 
 FXBusinessEngineKit\_Server：
