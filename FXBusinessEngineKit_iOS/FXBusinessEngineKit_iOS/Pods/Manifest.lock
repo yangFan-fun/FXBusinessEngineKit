@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.8.1)
+  - CocoaLumberjack/Core (3.8.2)
+  - CocoaLumberjack/Swift (3.8.2):
+    - CocoaLumberjack/Core
+  - KeychainAccess (4.2.2)
+  - LookinServer (1.2.5):
+    - LookinServer/Core (= 1.2.5)
+  - LookinServer/Core (1.2.5)
+  - SDWebImage (5.18.7):
+    - SDWebImage/Core (= 5.18.7)
+  - SDWebImage/Core (5.18.7)
+  - SnapKit (5.6.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CocoaLumberjack/Swift
+  - KeychainAccess
+  - LookinServer
+  - SDWebImage
+  - SnapKit
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CocoaLumberjack
+    - KeychainAccess
+    - LookinServer
+    - SDWebImage
+    - SnapKit
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  CocoaLumberjack: f8d89a516e7710fdb2e9b8f1560b16ec6040eef0
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  LookinServer: 6805292e8d2ff9ddfcfaa9357fc5c1f277c90afd
+  SDWebImage: f9258c58221ed854cfa0e2b80ee4033710b1c6d3
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: ef6bc1d6673bb3ffc0280c6e3800415afa0ac9b9
+
+COCOAPODS: 1.12.1
